@@ -17,14 +17,14 @@ className="absolute left-[-20px] top-[-100px] w-100 lg:w-[-200px]"
 <h1 className="bold-52 lg:bold-88">Road Mape for Cloud Computing</h1>
 <p className='regular-16 mt-6 text-gray-30 xl:max-w-[520px]'>
 <h3 className=' text-black bold-18 lg:bold-30' >Step 1: Learn the Basics</h3>
-Before diving into cloud computing, it’s important to have a strong foundation in computer science fundamentals.
+Before diving into cloud computing, its important to have a strong foundation in computer science fundamentals.
 
 <h3 className=' text-black bold-18 lg:bold-30'>Step 2: Learn Cloud Computing</h3>
 Once you have a good understanding of computer science fundamentals, you can move on to learning about cloud computing.
 <h3 className='text-black bold-18 lg:bold-30'>Step 3: Develop Skills in Cloud Computing</h3>
-To become job-ready in Cloud Computing, it’s important to develop specific skills in areas such as Cloud Security, DevOps, and Big Data.
+To become job-ready in Cloud Computing, its important to develop specific skills in areas such as Cloud Security, DevOps, and Big Data.
 <h3 className='text-black bold-18 lg:bold-30'> Step 4: Practice, Practice, Practice</h3>
-Learning about cloud computing is just the first step. It's important to practice what you've learned and gain practical experience.
+Learning about cloud computing is just the first step. Its important to practice what you have learned and gain practical experience.
 </p>
 <div className='my-11 flex flex-wrap gap-5'>
   <div className='flex items-centre gap-2'>
@@ -46,12 +46,12 @@ Learning about cloud computing is just the first step. It's important to practic
     <Button 
             type="button"
             title="Download App"
-            variant="btn_green"/>
+            variant="btn_dark_green"/>
     <Button 
             type="button" 
             title="How we work?" 
             icon="/play.jfif"
-            variant="btn_white_text" 
+            variant="btn_dark_green" 
           />
   </div>
 </div>
